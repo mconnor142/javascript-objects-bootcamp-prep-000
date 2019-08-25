@@ -4,3 +4,6 @@ var playlist = {
   Flume: 'Drop the Game'
 }
 
+function updatePlaylist(object, name, title){
+  playlist.
+}
